@@ -83,9 +83,9 @@ The **Face Mask Detection** project successfully demonstrated the use of deep le
 
 ## Authors
 
-- **Alessandro Magnani** - [alessandromagnani17](https://github.com/alessandromagnani17)
-- **Andrea Matteucci** - [AndreaMatteucci](https://github.com/AndreaMatteucci)
-- **Simone Montanari** - [Zimon9](https://github.com/Zimon9)
+- **Alessandro Magnani** - [alessandromagnani](https://github.com/alessandromagnani17)
+- **Andrea Matteucci** - [andreamatteucci](https://github.com/AndreaMatteucci)
+- **Simone Montanari** - [simonemontanari](https://github.com/Zimon9)
 
 University of Bologna - Campus Cesena, Department of Computer Science.
 
